@@ -1,11 +1,11 @@
 {
-  "name": "chronoblog",
+  "name": "chronoblog-thalhalla",
   "version": "1.21.0",
   "private": true,
-  "description": "gatsby-starter-chronoblog",
+  "description": "gatsby-thalhalla-chronoblog",
   "keywords": [],
   "license": "MIT",
-  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "author": "Josh Cox <uberthoth@gmail.com>",
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
@@ -29,5 +29,5 @@
   "engines": {
     "node": ">=10.15.0"
   },
-  "starter-name": "gatsby-starter-chronoblog"
+  "starter-name": "gatsby-thalhalla-chronoblog"
 }
