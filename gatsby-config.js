@@ -10,6 +10,7 @@ module.exports = {
     author: 'Site Author', // for example - 'Ivan Ganev'
     authorDescription: 'short author description', // short text about the author
     avatar: '/avatar.jpg',
+    avatarAltText: 'Thalhalla',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
@@ -33,7 +34,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-theme-chronoblog',
+      resolve: '@thalhalla/gatsby-theme-chronoblog-thalhalla',
       options: {
         uiText: {
           // ui text fot translate
